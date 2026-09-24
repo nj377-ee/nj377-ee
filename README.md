@@ -9,13 +9,13 @@
 - 🏹 I'm now building on that foundation with a Master's in Health Data Science, combining my biotechnology background with modern data science skills
 - 🌱 I'm working towards a career in health/biomedical research, applying data science methods to real research problems
 - 👯 I'm looking to collaborate on Health Data Science and biomedical research projects
-- 💬 Ask me about anything related to data, R, Python, or Linux
+- 💬 Ask me about anything related to data,SQL Python, or Linux
 - 📫 How to reach me: nj377@exeter.ac.uk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not analysing data, you'll probably find me out jogging
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, R, SQL
+- **Languages:** Python,  SQL
 - **Environments:** Jupyter Notebook, conda, Linux (Ubuntu)
 - **Version Control:** Git & GitHub
 - **Areas of Interest:** health data analysis, biomedical research, machine learning, reproducible research
